@@ -1,0 +1,486 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "project-id-version": "open-event-frontend",
+    "report-msgid-bugs-to": "open-event@googlegroups.com",
+    "pot-creation-date": "2019-01-31 16:31+0800",
+    "po-revision-date": "2017-06-29 14:51-0400",
+    "last-translator": "fossasia <me@niranjan.io>",
+    "language-team": "Korean",
+    "language": "ko",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "plural-forms": "nplurals=1; plural=0;",
+    "x-generator": "crowdin.com",
+    "x-crowdin-project": "open-event-frontend",
+    "x-crowdin-language": "ko",
+    "x-crowdin-file": "/development/translations/en.po"
+  },
+  "translations": {
+    "": {
+      "Accepted": {
+        "msgid": "Accepted",
+        "msgstr": [
+          "승인됨"
+        ]
+      },
+      "Access event information via REST API": {
+        "msgid": "Access event information via REST API",
+        "msgstr": [
+          "REST API를 통해 이벤트 정보 보기"
+        ]
+      },
+      "Activity": {
+        "msgid": "Activity",
+        "msgstr": [
+          "활동"
+        ]
+      },
+      "Admin": {
+        "msgid": "Admin",
+        "msgstr": [
+          "관리자"
+        ]
+      },
+      "All Dates": {
+        "msgid": "All Dates",
+        "msgstr": [
+          "모든 날짜"
+        ]
+      },
+      "Audio": {
+        "msgid": "Audio",
+        "msgstr": [
+          "오디오"
+        ]
+      },
+      "Basic Event Details": {
+        "msgid": "Basic Event Details",
+        "msgstr": [
+          "기본적인 이벤트 정보"
+        ]
+      },
+      "Browse Events": {
+        "msgid": "Browse Events",
+        "msgstr": [
+          "이벤트 찾기"
+        ]
+      },
+      "Call for Speakers": {
+        "msgid": "Call for Speakers",
+        "msgstr": [
+          "연사를 초청합니다"
+        ]
+      },
+      "Cancel": {
+        "msgid": "Cancel",
+        "msgstr": [
+          "취소"
+        ]
+      },
+      "Categories": {
+        "msgid": "Categories",
+        "msgstr": [
+          "카테고리"
+        ]
+      },
+      "click here": {
+        "msgid": "click here",
+        "msgstr": [
+          "여기를 클릭"
+        ]
+      },
+      "Copy": {
+        "msgid": "Copy",
+        "msgstr": [
+          "복사"
+        ]
+      },
+      "Create Event": {
+        "msgid": "Create Event",
+        "msgstr": [
+          "이벤트 만들기"
+        ]
+      },
+      "Date": {
+        "msgid": "Date",
+        "msgstr": [
+          "날짜"
+        ]
+      },
+      "Delete": {
+        "msgid": "Delete",
+        "msgstr": [
+          "삭제"
+        ]
+      },
+      "Document": {
+        "msgid": "Document",
+        "msgstr": [
+          "문서"
+        ]
+      },
+      "Download": {
+        "msgid": "Download",
+        "msgstr": [
+          "다운로드"
+        ]
+      },
+      "Draft": {
+        "msgid": "Draft",
+        "msgstr": [
+          "초안"
+        ]
+      },
+      "Edit Event": {
+        "msgid": "Edit Event",
+        "msgstr": [
+          "이벤트 수정"
+        ]
+      },
+      "Events": {
+        "msgid": "Events",
+        "msgstr": [
+          "이벤트"
+        ]
+      },
+      "Export": {
+        "msgid": "Export",
+        "msgstr": [
+          "수출"
+        ]
+      },
+      "Facebook": {
+        "msgid": "Facebook",
+        "msgstr": [
+          "페이스북"
+        ]
+      },
+      "here": {
+        "msgid": "here",
+        "msgstr": [
+          "여기"
+        ]
+      },
+      "Image": {
+        "msgid": "Image",
+        "msgstr": [
+          "사진"
+        ]
+      },
+      "Import": {
+        "msgid": "Import",
+        "msgstr": [
+          "불러오기"
+        ]
+      },
+      "Import Event": {
+        "msgid": "Import Event",
+        "msgstr": [
+          "이벤트 가져오기"
+        ]
+      },
+      "Invited": {
+        "msgid": "Invited",
+        "msgstr": [
+          "초대됨"
+        ]
+      },
+      "Level": {
+        "msgid": "Level",
+        "msgstr": [
+          "등급"
+        ]
+      },
+      "Live": {
+        "msgid": "Live",
+        "msgstr": [
+          "라이브"
+        ]
+      },
+      "Logo": {
+        "msgid": "Logo",
+        "msgstr": [
+          "로고"
+        ]
+      },
+      "Logout": {
+        "msgid": "Logout",
+        "msgstr": [
+          "로그아웃"
+        ]
+      },
+      "Manage Events": {
+        "msgid": "Manage Events",
+        "msgstr": [
+          "이벤트 관리"
+        ]
+      },
+      "Microlocations": {
+        "msgid": "Microlocations",
+        "msgstr": [
+          "마이크로 장소"
+        ]
+      },
+      "My Sessions": {
+        "msgid": "My Sessions",
+        "msgstr": [
+          "내 세션"
+        ]
+      },
+      "My Tickets": {
+        "msgid": "My Tickets",
+        "msgstr": [
+          "내 티켓"
+        ]
+      },
+      "Name": {
+        "msgid": "Name",
+        "msgstr": [
+          "이름"
+        ]
+      },
+      "Next Week": {
+        "msgid": "Next Week",
+        "msgstr": [
+          "다음 주"
+        ]
+      },
+      "Notifications": {
+        "msgid": "Notifications",
+        "msgstr": [
+          "알림"
+        ]
+      },
+      "Options": {
+        "msgid": "Options",
+        "msgstr": [
+          "옵션"
+        ]
+      },
+      "Past": {
+        "msgid": "Past",
+        "msgstr": [
+          "이전"
+        ]
+      },
+      "Pending": {
+        "msgid": "Pending",
+        "msgstr": [
+          "대기중"
+        ]
+      },
+      "Permissions": {
+        "msgid": "Permissions",
+        "msgstr": [
+          "권한"
+        ]
+      },
+      "Profile": {
+        "msgid": "Profile",
+        "msgstr": [
+          "프로필"
+        ]
+      },
+      "Public": {
+        "msgid": "Public",
+        "msgstr": [
+          "공개"
+        ]
+      },
+      "Publish": {
+        "msgid": "Publish",
+        "msgstr": [
+          "게시"
+        ]
+      },
+      "Rejected": {
+        "msgid": "Rejected",
+        "msgstr": [
+          "거부됨"
+        ]
+      },
+      "Response": {
+        "msgid": "Response",
+        "msgstr": [
+          "답변"
+        ]
+      },
+      "Role": {
+        "msgid": "Role",
+        "msgstr": [
+          "역할"
+        ]
+      },
+      "Scheduler": {
+        "msgid": "Scheduler",
+        "msgstr": [
+          "스케줄러"
+        ]
+      },
+      "Search": {
+        "msgid": "Search",
+        "msgstr": [
+          "검색"
+        ]
+      },
+      "Select event source file to import": {
+        "msgid": "Select event source file to import",
+        "msgstr": [
+          "불러올 이벤트 소스 파일 선택"
+        ]
+      },
+      "Sessions": {
+        "msgid": "Sessions",
+        "msgstr": [
+          "세션"
+        ]
+      },
+      "Settings": {
+        "msgid": "Settings",
+        "msgstr": [
+          "설정"
+        ]
+      },
+      "Share this event": {
+        "msgid": "Share this event",
+        "msgstr": [
+          "이벤트 공유하기"
+        ]
+      },
+      "Short Abstract": {
+        "msgid": "Short Abstract",
+        "msgstr": [
+          "짧은 개요"
+        ]
+      },
+      "Speakers": {
+        "msgid": "Speakers",
+        "msgstr": [
+          "연사"
+        ]
+      },
+      "Sponsors": {
+        "msgid": "Sponsors",
+        "msgstr": [
+          "후원사"
+        ]
+      },
+      "Start": {
+        "msgid": "Start",
+        "msgstr": [
+          "시작"
+        ]
+      },
+      "State": {
+        "msgid": "State",
+        "msgstr": [
+          "상태"
+        ]
+      },
+      "Status": {
+        "msgid": "Status",
+        "msgstr": [
+          "상태"
+        ]
+      },
+      "Submitted": {
+        "msgid": "Submitted",
+        "msgstr": [
+          "제출됨"
+        ]
+      },
+      "Success": {
+        "msgid": "Success",
+        "msgstr": [
+          "완료"
+        ]
+      },
+      "The simplest way to create events.": {
+        "msgid": "The simplest way to create events.",
+        "msgstr": [
+          "이벤트를 만드는 가장 쉬운 방법."
+        ]
+      },
+      "This Month": {
+        "msgid": "This Month",
+        "msgstr": [
+          "이번 달"
+        ]
+      },
+      "This Week": {
+        "msgid": "This Week",
+        "msgstr": [
+          "이번주"
+        ]
+      },
+      "This Weekend": {
+        "msgid": "This Weekend",
+        "msgstr": [
+          "이번 주말"
+        ]
+      },
+      "Tickets": {
+        "msgid": "Tickets",
+        "msgstr": [
+          "티켓"
+        ]
+      },
+      "Title": {
+        "msgid": "Title",
+        "msgstr": [
+          "제목"
+        ]
+      },
+      "Today": {
+        "msgid": "Today",
+        "msgstr": [
+          "오늘"
+        ]
+      },
+      "Tomorrow": {
+        "msgid": "Tomorrow",
+        "msgstr": [
+          "내일"
+        ]
+      },
+      "Tracks": {
+        "msgid": "Tracks",
+        "msgstr": [
+          "트랙"
+        ]
+      },
+      "Twitter": {
+        "msgid": "Twitter",
+        "msgstr": [
+          "트위터"
+        ]
+      },
+      "Type": {
+        "msgid": "Type",
+        "msgstr": [
+          "종류"
+        ]
+      },
+      "Upcoming Events": {
+        "msgid": "Upcoming Events",
+        "msgstr": [
+          "다가오는 행사"
+        ]
+      },
+      "Update": {
+        "msgid": "Update",
+        "msgstr": [
+          "업데이트"
+        ]
+      },
+      "Video": {
+        "msgid": "Video",
+        "msgstr": [
+          "비디오"
+        ]
+      }
+    }
+  }
+}

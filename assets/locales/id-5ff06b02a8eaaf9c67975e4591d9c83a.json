@@ -1,0 +1,84 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "project-id-version": "open-event-frontend",
+    "report-msgid-bugs-to": "open-event@googlegroups.com",
+    "pot-creation-date": "2019-01-31 16:31+0800",
+    "po-revision-date": "2017-06-29 15:01-0400",
+    "last-translator": "fossasia <me@niranjan.io>",
+    "language-team": "Indonesian",
+    "language": "id",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "plural-forms": "nplurals=1; plural=0;",
+    "x-generator": "crowdin.com",
+    "x-crowdin-project": "open-event-frontend",
+    "x-crowdin-language": "id",
+    "x-crowdin-file": "/development/translations/en.po"
+  },
+  "translations": {
+    "": {
+      "Create Event": {
+        "msgid": "Create Event",
+        "msgstr": [
+          "Buat Acara"
+        ]
+      },
+      "Next Week": {
+        "msgid": "Next Week",
+        "msgstr": [
+          "Minggu depan"
+        ]
+      },
+      "Search": {
+        "msgid": "Search",
+        "msgstr": [
+          "Cari"
+        ]
+      },
+      "The simplest way to create events.": {
+        "msgid": "The simplest way to create events.",
+        "msgstr": [
+          "Cara termudah untuk membuat acara."
+        ]
+      },
+      "This Month": {
+        "msgid": "This Month",
+        "msgstr": [
+          "Bulan ini"
+        ]
+      },
+      "This Week": {
+        "msgid": "This Week",
+        "msgstr": [
+          "Minggu ini"
+        ]
+      },
+      "This Weekend": {
+        "msgid": "This Weekend",
+        "msgstr": [
+          "Kahir pekan ini"
+        ]
+      },
+      "Today": {
+        "msgid": "Today",
+        "msgstr": [
+          "Hari ini"
+        ]
+      },
+      "Tomorrow": {
+        "msgid": "Tomorrow",
+        "msgstr": [
+          "Besok"
+        ]
+      },
+      "Upcoming Events": {
+        "msgid": "Upcoming Events",
+        "msgstr": [
+          "Acara yang akan datang"
+        ]
+      }
+    }
+  }
+}
